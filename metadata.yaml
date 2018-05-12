@@ -1,0 +1,43 @@
+_repo: The-Rover-Boys-Under-Canvas--Or-The-Mystery-of-the-Wrecked-Submarine_23286
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23286-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Steward, Ray M.
+    - Bonehill, Captain Ralph
+    - Bonehill, Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: 'A popular entry in the second-generation Rover Boys series, The Rover
+  Boys Under Canvas follows the sons of the original Rover Boys as they participate
+  in a classic ritual at Colby Hall, the military academy they attend: the annual
+  school camping trip. Along the way, the boys uncover an intriguing mystery. Will
+  they be able to crack the case without incurring the wrath of their commanders?
+  Dive into this eminently entertaining page-turner to find out.'
+gutenberg_bookshelf:
+- School Stories
+- Children's Book Series
+gutenberg_issued: '2007-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Submarines (Ships) -- Fiction'
+- !lcsh 'Military education -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+title: The Rover Boys Under Canvas; Or, The Mystery of the Wrecked Submarine
+url: http://www.gutenberg.org/ebooks/23286
